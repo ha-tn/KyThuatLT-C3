@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "KTLT_Bai.7b035579\\x64\\Debug\\De1-Bai3.obj",
+            "outputs": [
+                "KTLT_Bai.7b035579\\x64\\Debug\\De1-Bai3.cpp.obj.dt.module.json",
+                "KTLT_Bai.7b035579\\x64\\Debug\\De1-Bai3.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

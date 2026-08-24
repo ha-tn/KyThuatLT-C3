@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B035579-7445-4EBE-9FF7-87FFB7C1B051}|KTLT_BaiTapChuong3.vcxproj|D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De2-Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B035579-7445-4EBE-9FF7-87FFB7C1B051}|KTLT_BaiTapChuong3.vcxproj|solutionrelative:De2-Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B035579-7445-4EBE-9FF7-87FFB7C1B051}|KTLT_BaiTapChuong3.vcxproj|D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De1-Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7B035579-7445-4EBE-9FF7-87FFB7C1B051}|KTLT_BaiTapChuong3.vcxproj|solutionrelative:De1-Bai1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -22,24 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "De1-Bai1.cpp",
               "DocumentMoniker": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De1-Bai1.cpp",
               "RelativeDocumentMoniker": "De1-Bai1.cpp",
               "ToolTip": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De1-Bai1.cpp",
               "RelativeToolTip": "De1-Bai1.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAswFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-08-23T13:12:17.356Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "De1-Bai2.cpp",
               "DocumentMoniker": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De1-Bai2.cpp",
               "RelativeDocumentMoniker": "De1-Bai2.cpp",
@@ -47,11 +55,12 @@
               "RelativeToolTip": "De1-Bai2.cpp",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-23T14:58:26.682Z"
+              "WhenOpened": "2026-08-23T14:58:26.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "De1-Bai3.cpp",
               "DocumentMoniker": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De1-Bai3.cpp",
               "RelativeDocumentMoniker": "De1-Bai3.cpp",
@@ -60,6 +69,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-08-23T17:05:50.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "De2-Bai1.cpp",
+              "DocumentMoniker": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De2-Bai1.cpp",
+              "RelativeDocumentMoniker": "De2-Bai1.cpp",
+              "ToolTip": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De2-Bai1.cpp",
+              "RelativeToolTip": "De2-Bai1.cpp",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-24T11:54:37.747Z",
               "EditorCaption": ""
             }
           ]
