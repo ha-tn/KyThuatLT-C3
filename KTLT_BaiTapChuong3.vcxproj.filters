@@ -30,5 +30,11 @@
     <ClCompile Include="De1-Bai3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="De2-Bai2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="De2-Bai3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
