@@ -36,5 +36,8 @@
     <ClCompile Include="De2-Bai3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TongHop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

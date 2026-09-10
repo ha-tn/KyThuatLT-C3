@@ -3,12 +3,11 @@
   "WorkspaceRootPath": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B035579-7445-4EBE-9FF7-87FFB7C1B051}|KTLT_BaiTapChuong3.vcxproj|D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De2-Bai3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B035579-7445-4EBE-9FF7-87FFB7C1B051}|KTLT_BaiTapChuong3.vcxproj|solutionrelative:De2-Bai3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7B035579-7445-4EBE-9FF7-87FFB7C1B051}|KTLT_BaiTapChuong3.vcxproj|D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\TongHop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B035579-7445-4EBE-9FF7-87FFB7C1B051}|KTLT_BaiTapChuong3.vcxproj|solutionrelative:TongHop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B035579-7445-4EBE-9FF7-87FFB7C1B051}|KTLT_BaiTapChuong3.vcxproj|D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De1-Bai3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7B035579-7445-4EBE-9FF7-87FFB7C1B051}|KTLT_BaiTapChuong3.vcxproj|solutionrelative:De1-Bai3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\NHAT HA\\Downloads\\20252007TPE1_NguyenGiaHuy_De_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "De1-Bai3.cpp",
-              "DocumentMoniker": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De1-Bai3.cpp",
-              "RelativeDocumentMoniker": "De1-Bai3.cpp",
-              "ToolTip": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De1-Bai3.cpp",
-              "RelativeToolTip": "De1-Bai3.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "TongHop.cpp",
+              "DocumentMoniker": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\TongHop.cpp",
+              "RelativeDocumentMoniker": "TongHop.cpp",
+              "ToolTip": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\TongHop.cpp",
+              "RelativeToolTip": "TongHop.cpp",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAANUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-26T06:46:45.922Z",
+              "WhenOpened": "2026-09-04T12:52:36.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "De2-Bai3.cpp",
-              "DocumentMoniker": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De2-Bai3.cpp",
-              "RelativeDocumentMoniker": "De2-Bai3.cpp",
-              "ToolTip": "D:\\THUC HANH VS\\KTLT_BaiTapChuong3\\De2-Bai3.cpp",
-              "RelativeToolTip": "De2-Bai3.cpp",
-              "ViewState": "AgIAADsAAAAAAAAAAAAswDIAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "20252007TPE1_NguyenGiaHuy_De_1.cpp",
+              "DocumentMoniker": "C:\\Users\\NHAT HA\\Downloads\\20252007TPE1_NguyenGiaHuy_De_1.cpp",
+              "ToolTip": "C:\\Users\\NHAT HA\\Downloads\\20252007TPE1_NguyenGiaHuy_De_1.cpp",
+              "ViewState": "AgIAALsAAAAAAAAAAAAkwNUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-08-26T09:43:34.529Z",
+              "WhenOpened": "2026-09-04T12:53:25.165Z",
               "EditorCaption": ""
             }
           ]
